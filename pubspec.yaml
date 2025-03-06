@@ -37,6 +37,8 @@ dependencies:
 
   google_fonts: ^6.2.1 #ใช้ทำ gg font  ในแอป
   font_awesome_flutter: ^10.8.0
+  flutter_facebook_auth: ^6.0.2
+  google_sign_in: ^6.1.5
 
 dev_dependencies:
   flutter_test:
